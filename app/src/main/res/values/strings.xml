@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SpeerTechnologyAssignment</string>
+    <string name="search">Search</string>
+    <string name="enter_user_name">Enter User Name</string>
+    <string name="followers_count">No Followers</string>
+    <string name="following_count">No Followings Found</string>
+    <string name="no_record_found">No Record Found</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
